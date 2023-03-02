@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="happy_birthday_mom">Happy Birthday Mom</string>
+    <string name="from_dylan">From Dylan</string>
+    <string name="from_dylan2">From Dillard</string>
+    <string name="cardbackground">cardBackground</string>
+</resources>
